@@ -41,3 +41,6 @@ htmlcov/
 # Synthesis output
 output/
 combined_materials/
+
+#other test files
+document.pdf
