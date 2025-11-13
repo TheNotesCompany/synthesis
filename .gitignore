@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+.env/
+venv/
+ENV/
+.envrc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Other
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Test
+.coverage
+htmlcov/
+
+# Synthesis output
+output/
+combined_materials/
